@@ -6,6 +6,6 @@ Some description!
 
 Watch tutorial on YouTube.
 
-## Branching
+## Feature branch
 
-Using this repo to practice branching.
+Making changes to Feature branch.
